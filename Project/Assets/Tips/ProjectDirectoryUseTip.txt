@@ -1,0 +1,15 @@
+项目文件夹使用说明
+1、Art:放游戏中的美术素材
+2、GameDesign:放设计功能时的设计图,不同的版本需要新增相应文件夹，比如V0.0.1，就新增V0.0.1文件夹，里面放功能的实现思路
+3、Plugins:存放外置引用
+4、Resources:存放游戏中动态加载的资源
+5、Scenes:存放游戏的场景
+6、Scripts:存放游戏中的代码逻辑
+  1）Command：存放Command类
+  2）Controller:存放所有表现层代码，Game放游戏，UI放界面
+  3）Framework:存放框架代码
+  4）Model:存放Moel
+  5）Query:存放Query类
+  6）System:存放System类
+  7）Utility:存放所有工具库，第三方
+7、Tips:存放项目开发时的注意事项
